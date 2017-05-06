@@ -1,3 +1,3 @@
-# Test Rails Repos
+# Test Rails Repo
 
 	Repo containing tests and examples of rails
